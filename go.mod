@@ -1,4 +1,4 @@
-module envconfig
+module github.com/mmy83/envconfig
 
 go 1.15
 
